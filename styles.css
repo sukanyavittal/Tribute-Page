@@ -1,0 +1,34 @@
+body {
+  background-color: white;
+  margin:0;
+  padding:0;
+  font-family: Calibri;
+   
+}
+
+
+.main{
+  margin-top: 0%;
+  margin-left:10%;
+  margin-right: 10%;
+  margin-bottom: 2%;
+  
+  background-color: #D3D3D3;
+}
+.caption
+{
+  font-size: 25px;
+  text-align: center;
+}
+h1, .footer_info
+{
+  text-align: center;
+  font-family: century;
+}
+.content, .image_bhim{
+  margin: 0 auto;
+  width: 80%;
+  
+}
+
+
